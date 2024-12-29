@@ -1,0 +1,181 @@
+* {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.topic {
+    padding-top: 150px;
+    padding-left: 400px;
+    border: 100px;
+    border-radius: 10px;
+    background-color: bisque;
+    font-size: 3rem;
+
+}
+
+.header {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    background: #fff;
+    align-items: center;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.logo {
+    font-size: 3rem;
+    color: #000;
+    font-weight: bolder;
+    padding-left: 10px;
+}
+
+.home {
+    font-size: x-large;
+    margin-left: 50px;
+}
+
+.home:hover {
+    background-color: navajowhite;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.about {
+    font-size: x-large;
+    margin-left: 100px;
+}
+
+.about:hover {
+    background-color: navajowhite;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.category {
+    font-size: x-large;
+    margin-left: 100px;
+}
+
+.category:hover {
+    background-color: navajowhite;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.product {
+    font-size: x-large;
+    margin-left: 100px;
+}
+
+.product:hover {
+    background-color: navajowhite;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.contact {
+    font-size: x-large;
+    margin-left: 100px;
+}
+
+.contact:hover {
+    background-color: navajowhite;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.bu {
+    padding: 7px;
+    font-size: x-large;
+    border: none;
+    font-weight: 0;
+    margin-left: 100px;
+    border-radius: 800px;
+    cursor: pointer;
+
+}
+
+.bu:hover {
+    background-color: navajowhite;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    margin: 0px;
+}
+
+.object {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+
+}
+
+.content {
+    width: 20%;
+    margin: 15px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    display: block;
+}
+
+.but {
+    text-align: center;
+    font-size: larger;
+    color: #000;
+   box-sizing: content-box;
+    padding: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-style: solid;
+    background-color:burlywood;
+}
+.cart{
+    text-align: center;
+    font-size: larger;
+    color: #000;
+   box-sizing: content-box;
+    padding: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-style: solid;
+    background-color:burlywood;
+}
+.pro{
+    display:flex;
+    flex-direction: column;
+
+}
+.title{
+    text-align: center;
+    font-size: 3rem;
+    color: burlywood;
+}

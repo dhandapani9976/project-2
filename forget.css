@@ -1,0 +1,15 @@
+body{
+    background-image: url(sss.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.whole{
+    margin-top: 400px;
+}
+.passwords{
+    text-align: center;
+    margin-top: 300px;
+}
+.newpassword{
+    text-align: center;
+}
